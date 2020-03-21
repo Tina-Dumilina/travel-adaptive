@@ -1,0 +1,9 @@
+@media (max-width: 540px) {
+  .video__item {
+    margin-bottom: 8px;
+  }
+
+  .video__item:last-child {
+    margin-bottom: 0;
+  }
+}
