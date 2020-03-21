@@ -1,0 +1,15 @@
+.intro__facts {
+  margin: 0;
+  padding-left: 0;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  list-style: none;
+}
+
+@media (max-width: 375px) {
+  .intro__facts {
+    font-size: 12px;
+    line-height: 19px;
+  }
+}
