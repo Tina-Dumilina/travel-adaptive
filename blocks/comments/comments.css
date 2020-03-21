@@ -1,0 +1,15 @@
+.comments {
+  margin-bottom: 94px;
+}
+
+@media (max-width: 375px) {
+  .comments {
+    margin-bottom: 48px;
+  }
+}
+
+@media (max-width: 320px) {
+  .comments {
+    margin-bottom: 64px;
+  }
+}
